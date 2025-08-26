@@ -1,2 +1,2 @@
 # OSA-MODULO1
-EU TE AVISEI CRIADOR DO GIT E GUTHUB, MAS VOCE NAO ESTA LEVANDO A SERIO, A DOR DE CABEÇA QUE EU TO PASSANDO PRA APRENDER A USAR ESSA MERDA NAO SERA PAGA POR NADA 
+Repositório dedicado à disciplina "Operação de software e Aplicativo" (OSA) contendo implementações, exercícios e projetos práticos realizados durante o curso de Desenvolvimento de Sistemas.
